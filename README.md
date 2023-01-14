@@ -41,9 +41,15 @@ To keep this collection up-to-date need contributors who can add more Program Ar
 
 
 # :briefcase: Barang & Bahan
--
--
--
+- Arduino Uno
+- l293d motor driver
+- hc 05 bluetooth module
+- Dinamo dc gearbox robot mobil 4X
+- Saklar On/Off
+- Kabel Male & Female
+- Plat Akrilik Sasis Mobil 2X
+- Batre Awt 40A,3300mAh
+- Tempat Dudukan Batre Awt
 
 
 # :mag: Ilustrasi Arduino
